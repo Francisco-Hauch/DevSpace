@@ -39,8 +39,8 @@ export const profile = {
     pt: 'Brasil',
     en: 'Brazil',
   } satisfies Localized,
-  siteUrl: 'https://morbidmango873.github.io/DevSpace/',
-  githubUser: 'Morbidmango873',
+  siteUrl: 'https://francisco-hauch.github.io/DevSpace/',
+  githubUser: 'Francisco-Hauch',
 } as const;
 
 export const socialLinks: SocialLink[] = [

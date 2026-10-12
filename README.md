@@ -2,7 +2,7 @@
 
 Portfólio pessoal de **Francisco Hauch** — React, TypeScript, Tailwind CSS e Vite.
 
-Publicado em <https://morbidmango873.github.io/DevSpace/>.
+Publicado em <https://francisco-hauch.github.io/DevSpace/>.
 
 O visual segue o design system **Modernist**: fundo claro, um único acento
 vermelho, tipografia Archivo, canto zero e réguas fortes de 2px separando as
